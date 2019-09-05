@@ -48,7 +48,7 @@ namespace PUBGDropHelper
                 Console.WriteLine("1    -   Erangel");
                 Console.WriteLine("2    -   Miramar");
                 Console.WriteLine("3    -   Sanhok");
-                Console.WriteLine("4    -   Vikendi");
+                Console.WriteLine("4    -   Vikendieeee");
                 string mapSelection = Console.ReadLine();
                 Console.WriteLine("___________________________________________________");
 
